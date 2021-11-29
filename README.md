@@ -10,4 +10,4 @@
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=yellow)
 ## Some stats:
 ![Xilosof's GitHub stats](https://github-readme-stats-vercel-drab.vercel.app/api?username=Xilosof&show_icons=true&theme=highcontrast&count_private=true)
-![Top Langs](https://github-readme-stats-vercel-drab.vercel.app/api/top-langs/?username=xilosof&langs_count=10&hide=html,css&count_private=true&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats-vercel-drab.vercel.app/api/top-langs/?username=xilosof&langs_count=10&hide=html,css,javascript&count_private=true&layout=compact&theme=highcontrast)
